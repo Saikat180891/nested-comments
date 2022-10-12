@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.btn-primary-solid {
+  border: 1px solid rgb(28, 175, 243);
+  background: rgb(28, 175, 243);
+  color: #ffffff;
+}
+
+.btn-primary-stroked {
+  color: rgb(28, 175, 243);
+  border: 1px solid rgb(28, 175, 243);
+}
+
+.btn-danger-stroked {
+  color: rgb(219, 76, 71);
+  border: 1px solid rgb(219, 76, 71);
+}
+
+.btn-success-stroked {
+  color: rgb(18, 172, 56);
+  border: 1px solid rgb(18, 172, 56);
+}
+
+.mr-sm {
+  margin-right: 0.5rem;
+}
+
+.mt-sm {
+  margin-top: 0.5rem;
+}
